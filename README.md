@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">My Terminal Log</h3>
+<h3 align="center">About Me</h3>
 
 <pre>
 $ whoami  
@@ -23,12 +23,12 @@ $ progress --status
 > learning things I once avoided.
 
 $ future --goal  
-> full stack dev 🧩 + confidence 💪
+>  build apps with code that actually reflects me.
 </pre>
 
 ---
 
-<p align="center"><i>“Started unsure. Still unsure. But doing it anyway.”</i></p>
+<p align="center"><i>“Still learning, still trying — and that counts”</i></p>
 
 <b>GitHub Stats</b>
 
