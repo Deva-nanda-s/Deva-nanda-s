@@ -7,6 +7,29 @@
 <p align="center">
   I may not have started as a coder — but I’m becoming one with every commit.
 </p>
+
+---
+
+<h3 align="center">My Terminal Log</h3>
+
+<pre>
+$ whoami  
+> devananda
+
+$ skills --list  
+> python, java,mysql.
+
+$ progress --status  
+> learning things I once avoided.
+
+$ future --goal  
+> full stack dev 🧩 + confidence 💪
+</pre>
+
+---
+
+<p align="center"><i>“Started unsure. Still unsure. But doing it anyway.”</i></p>
+
 <b>GitHub Stats</b>
 
 <p align="center">
